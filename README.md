@@ -1,5 +1,4 @@
-# 👋 Hey, I'm Rohan Chatterjee 
-Pre-Final Year Computer Science Engineering student
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/ad59730f-13c3-4bbc-91ba-15e3ceae25f2" />
 
 ## 💫 About Me
 - ⚙️ I build across domains — from **apps and interfaces** to **backend systems and pipelines**
