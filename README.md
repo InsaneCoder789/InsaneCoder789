@@ -1,22 +1,21 @@
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/ad59730f-13c3-4bbc-91ba-15e3ceae25f2" />
 
 ## 💫 About Me
-- ⚙️ I build across domains — from **apps and interfaces** to **backend systems and pipelines**
-- 🧠 Curious about how systems behave under **real-world conditions**, not just ideal ones  
-- 📡 Exploring **system design, distributed systems, and software architecture**
-- 🔐 Interested in how systems handle **scale, failure, and reliability**
+- ⚙️ I build across the stack, from **user-facing applications** to **backend systems and developer workflows**
+- 🧠 I care about how software behaves in **real-world environments**, not just in ideal demos
+- 📡 I’m actively deepening my understanding of **system design, distributed systems, and software architecture**
+- 🔐 I’m interested in building systems that handle **scale, failure, and reliability** with clarity
 
-I enjoy experimenting with different kinds of projects — not just to build them, but to understand how they should actually work in production
+I enjoy working on different kinds of projects, not just to ship them, but to understand how they should be designed, tested, and maintained in production
 
 ## 🚀 What I'm Focused On
-- Backend systems & architecture  
-- End-to-end project building  
-- Scalable system design  
-- Exploring technologies across domains  
+- Backend systems and architecture
+- End-to-end product development
+- Scalable system design
+- Exploring technologies across mobile, web, and backend
 
 ## 🧭 Philosophy
 > *“Build it. Break it. Understand it. Then build it better.”*
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rochiee24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rochiee24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chatterjeerohan0204@gmail.com) 
