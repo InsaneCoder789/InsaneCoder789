@@ -8,8 +8,6 @@
 <a href="https://www.linkedin.com/in/rochiee24"><img src="https://img.shields.io/badge/LinkedIn-rochiee24-6f4e37?style=flat-square&logo=linkedin&logoColor=f5ead8" alt="LinkedIn" /></a>
 <a href="https://instagram.com/rochiee24"><img src="https://img.shields.io/badge/Instagram-rochiee24-8c5d45?style=flat-square&logo=instagram&logoColor=f5ead8" alt="Instagram" /></a>
 <a href="mailto:chatterjeerohan0204@gmail.com"><img src="https://img.shields.io/badge/Write_to_me-chatterjeerohan0204-9b754f?style=flat-square&logo=gmail&logoColor=f5ead8" alt="Email Rohan" /></a>
-
-<br /><br />
 </div>
 <br />
 
