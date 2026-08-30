@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Rohan Chatterjee developer terminal profile</title>
+  <desc id="desc">A GitHub-dark terminal widget summarising Rohan Chatterjee's engineering focus and technology stack.</desc>
+  <style>
+    .ui { font-family: Arial, Helvetica, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .muted { fill: #8b949e; }
+    .text { fill: #c9d1d9; }
+    .blue { fill: #79c0ff; }
+    .purple { fill: #d2a8ff; }
+    .green { fill: #7ee787; }
+    .yellow { fill: #e3b341; }
+    .pink { fill: #ff7b72; }
+  </style>
+  <rect width="1200" height="600" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="598" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M 1 70 H 1199" stroke="#30363d" stroke-width="2"/>
+  <circle cx="38" cy="35" r="9" fill="#ff7b72"/>
+  <circle cx="66" cy="35" r="9" fill="#e3b341"/>
+  <circle cx="94" cy="35" r="9" fill="#7ee787"/>
+  <rect x="450" y="18" width="300" height="34" rx="8" fill="#161b22"/>
+  <path d="M 470 27 L 482 35 L 470 43" fill="none" stroke="#7ee787" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="497" y="40" class="ui text" font-size="16" font-weight="700">rohan@github: ~ / profile</text>
+  <rect x="28" y="95" width="1144" height="72" rx="10" fill="#161b22" stroke="#21262d"/>
+  <text x="54" y="124" class="mono green" font-size="18" font-weight="700">$</text>
+  <text x="79" y="124" class="mono text" font-size="18">./whoami --full</text>
+  <text x="54" y="151" class="mono muted" font-size="14">loading developer profile...</text>
+  <circle cx="304" cy="146" r="5" fill="#7ee787"/>
+  <text x="318" y="151" class="mono green" font-size="14">ready</text>
+  <text x="54" y="216" class="mono blue" font-size="22" font-weight="700">rohan@github</text>
+  <text x="212" y="216" class="mono muted" font-size="22">:</text>
+  <text x="226" y="216" class="mono purple" font-size="22" font-weight="700">~</text>
+  <text x="241" y="216" class="mono muted" font-size="22">$</text>
+  <text x="54" y="249" class="mono muted" font-size="15">────────────────────────────────────────────────────────────────────────</text>
+  <text x="54" y="288" class="mono purple" font-size="18" font-weight="700">role</text>
+  <text x="230" y="288" class="mono text" font-size="17">Software Engineer + Builder</text>
+  <text x="54" y="325" class="mono purple" font-size="18" font-weight="700">focus</text>
+  <text x="230" y="325" class="mono text" font-size="17">Mobile · Web · Backend · AI</text>
+  <text x="54" y="362" class="mono purple" font-size="18" font-weight="700">building</text>
+  <text x="230" y="362" class="mono text" font-size="17">Useful products. Dependable systems.</text>
+  <text x="54" y="399" class="mono purple" font-size="18" font-weight="700">currently</text>
+  <text x="230" y="399" class="mono text" font-size="17">Flutter · Next.js · Applied AI</text>
+  <rect x="745" y="195" width="427" height="238" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="775" y="232" class="ui muted" font-size="13" font-weight="700" letter-spacing="1.5">RUNTIME / TOOLBOX</text>
+  <rect x="775" y="253" width="110" height="36" rx="18" fill="#1f6feb"/>
+  <text x="830" y="276" class="ui" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="700">Android</text>
+  <rect x="896" y="253" width="99" height="36" rx="18" fill="#8957e5"/>
+  <text x="945" y="276" class="ui" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="700">Flutter</text>
+  <rect x="1006" y="253" width="109" height="36" rx="18" fill="#238636"/>
+  <text x="1060" y="276" class="ui" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="700">Next.js</text>
+  <rect x="775" y="305" width="83" height="36" rx="18" fill="#b45309"/>
+  <text x="816" y="328" class="ui" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="700">APIs</text>
+  <rect x="869" y="305" width="114" height="36" rx="18" fill="#0969da"/>
+  <text x="926" y="328" class="ui" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="700">Databases</text>
+  <rect x="994" y="305" width="121" height="36" rx="18" fill="#a40e26"/>
+  <text x="1054" y="328" class="ui" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="700">Applied AI</text>
+  <path d="M 775 375 H 1115" stroke="#30363d"/>
+  <text x="775" y="407" class="mono green" font-size="15">status:</text>
+  <text x="846" y="407" class="mono text" font-size="15">shipping, learning, iterating</text>
+  <rect x="28" y="469" width="1144" height="99" rx="10" fill="#161b22" stroke="#21262d"/>
+  <text x="54" y="504" class="mono yellow" font-size="17">&gt;</text>
+  <text x="78" y="504" class="mono text" font-size="17">products should be useful</text>
+  <text x="54" y="532" class="mono yellow" font-size="17">&gt;</text>
+  <text x="78" y="532" class="mono text" font-size="17">systems should be understandable</text>
+  <text x="54" y="558" class="mono pink" font-size="17">_</text>
+</svg>
