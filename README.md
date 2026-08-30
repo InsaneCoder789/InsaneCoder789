@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="InsaneCoder789 engineering profile banner" src="./assets/rohan-profile-banner.svg" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/7432c946-1d20-40f3-968f-9a674dbc1ab4" />
 
 <br/>
 
@@ -46,31 +46,26 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 <img src="https://skillicons.dev/icons?i=kotlin,dart,ts,js,python,java,c,html,css&theme=dark" />
 
-<br/><br/>
 
 ### Mobile & Frontend
 
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind&theme=dark" />
 
-<br/><br/>
 
 ### Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase&theme=dark" />
 
-<br/><br/>
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark" />
 
-<br/><br/>
 
 ### AI / Data
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
 
-<br/><br/>
 
 ### Infrastructure & Tooling
 
