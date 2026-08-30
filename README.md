@@ -82,7 +82,7 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ## What I Build
 
-<img width="100%" alt="What I Build" src="./assets/build-grid.svg" />
+<img width="100%" alt="What I Build" src="./assets/build-system-v2.svg" />
 
 ---
 
@@ -94,7 +94,7 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ## Engineering Principles
 
-<img width="100%" alt="Engineering principles" src="./assets/principles-grid.svg" />
+<img width="100%" alt="Engineering principles" src="./assets/principles-system-v2.svg" />
 
 ---
 
@@ -115,36 +115,6 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 <img src="https://komarev.com/ghpvc/?username=InsaneCoder789&label=PROFILE+VIEWS&color=238636&style=for-the-badge" />
 
 </div>
-
----
-
-## Beyond the Commit
-
-I like projects that force me to think across boundaries:
-
-- how the interface affects the architecture
-- how the architecture behaves when something fails
-- how data moves through the system
-- how the system grows without becoming impossible to maintain
-- and whether the finished product actually solves something meaningful
-
-```text
-Idea
- ↓
-Prototype
- ↓
-Architecture
- ↓
-Build
- ↓
-Break
- ↓
-Understand
- ↓
-Improve
- ↓
-Ship
-```
 
 ---
 
