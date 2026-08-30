@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Rohan Chatterjee developer profile terminal">
+  <rect width="1200" height="520" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="518" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M1 66H1199" stroke="#30363d" stroke-width="2"/>
+  <g fill="#8b949e"><circle cx="34" cy="33" r="8" fill="#ff7b72"/><circle cx="59" cy="33" r="8" fill="#e3b341"/><circle cx="84" cy="33" r="8" fill="#7ee787"/></g>
+  <g font-family="Arial, Helvetica, sans-serif"><text x="105" y="39" fill="#c9d1d9" font-size="17" font-weight="700">developer-profile / rohan-chatterjee</text><text x="1035" y="39" fill="#7ee787" font-size="14" text-anchor="end">● ONLINE</text></g>
+  <rect x="30" y="92" width="740" height="330" rx="12" fill="#161b22" stroke="#30363d"/>
+  <rect x="796" y="92" width="374" height="330" rx="12" fill="#161b22" stroke="#30363d"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace"><text x="58" y="130" fill="#7ee787" font-size="17" font-weight="700">$</text><text x="83" y="130" fill="#c9d1d9" font-size="17">profile --summary</text><text x="58" y="158" fill="#8b949e" font-size="14">identity resolved / engineering mode active</text><path d="M58 180H742" stroke="#30363d"/>
+  <text x="58" y="220" fill="#d2a8ff" font-size="17" font-weight="700">ROLE</text><text x="220" y="220" fill="#c9d1d9" font-size="17">Software Engineer + Product Builder</text>
+  <text x="58" y="260" fill="#d2a8ff" font-size="17" font-weight="700">FOCUS</text><text x="220" y="260" fill="#c9d1d9" font-size="17">Mobile / Full-stack / Applied AI</text>
+  <text x="58" y="300" fill="#d2a8ff" font-size="17" font-weight="700">MINDSET</text><text x="220" y="300" fill="#c9d1d9" font-size="17">Useful products. Clear systems.</text>
+  <text x="58" y="340" fill="#d2a8ff" font-size="17" font-weight="700">NOW</text><text x="220" y="340" fill="#c9d1d9" font-size="17">Flutter / Next.js / AI-integrated products</text>
+  <text x="58" y="390" fill="#7ee787" font-size="16">›</text><text x="83" y="390" fill="#8b949e" font-size="16">ship · observe · improve</text></g>
+  <g font-family="Arial, Helvetica, sans-serif"><text x="826" y="128" fill="#8b949e" font-size="13" font-weight="700" letter-spacing="1.8">CORE TOOLBOX</text>
+  <g font-size="14" font-weight="700" fill="#fff" text-anchor="middle"><rect x="826" y="154" width="94" height="34" rx="7" fill="#1f6feb"/><text x="873" y="176">Android</text><rect x="932" y="154" width="92" height="34" rx="7" fill="#8957e5"/><text x="978" y="176">Flutter</text><rect x="1036" y="154" width="101" height="34" rx="7" fill="#238636"/><text x="1086" y="176">Next.js</text><rect x="826" y="202" width="74" height="34" rx="7" fill="#b45309"/><text x="863" y="224">APIs</text><rect x="912" y="202" width="108" height="34" rx="7" fill="#0969da"/><text x="966" y="224">Databases</text><rect x="1032" y="202" width="105" height="34" rx="7" fill="#a40e26"/><text x="1084" y="224">Applied AI</text></g>
+  <path d="M826 267H1137" stroke="#30363d"/><text x="826" y="302" fill="#8b949e" font-size="13" font-weight="700" letter-spacing="1.8">BUILD SIGNAL</text><rect x="826" y="318" width="311" height="10" rx="5" fill="#21262d"/><rect x="826" y="318" width="242" height="10" rx="5" fill="#3fb950"/><text x="826" y="366" fill="#7ee787" font-size="16" font-weight="700">ACTIVE</text><text x="895" y="366" fill="#c9d1d9" font-size="15">Learning in public, building in depth.</text></g>
+  <rect x="30" y="446" width="1140" height="44" rx="9" fill="#161b22" stroke="#30363d"/><text x="58" y="474" font-family="Consolas, monospace" fill="#e3b341" font-size="15">#</text><text x="84" y="474" font-family="Consolas, monospace" fill="#c9d1d9" font-size="15">Code with care. Design for reality. Keep learning.</text>
+</svg>
