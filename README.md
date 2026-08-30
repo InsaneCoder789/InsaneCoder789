@@ -1,16 +1,9 @@
 <div align="center">
 
-<img width="100%" alt="Abstract systems engineering network visual" src="./assets/rohan-systems-banner.png" />
+<img width="100%" alt="InsaneCoder789 engineering profile banner" src="./assets/rohan-profile-banner.svg" />
 
 <br/>
 
-# Rohan Chatterjee
-
-### Software Engineer & Product Builder
-
-`Android` · `Flutter` · `Next.js` · `Full-Stack` · `Applied AI`
-
-<br/>
 
 <a href="https://github.com/InsaneCoder789">
   <img src="https://img.shields.io/badge/GITHUB-INSANECODER789-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -35,7 +28,7 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ---
 
-## `01.` About
+## About
 
 <div align="center">
 
@@ -45,7 +38,7 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ---
 
-## `02.` Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -87,172 +80,25 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ---
 
-## `03.` What I Build
+## What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Mobile Engineering
-
-Native and cross-platform applications built around real product workflows.
-
-**Working with**
-
-`Kotlin` `Jetpack Compose` `Flutter` `Android`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Products
-
-Interfaces backed by APIs, authentication, persistence and deployment infrastructure.
-
-**Working with**
-
-`Next.js` `React` `TypeScript` `Node.js`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Systems
-
-API architecture, application logic, database design and service integration.
-
-**Working with**
-
-`FastAPI` `Express` `PostgreSQL` `Redis`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Applied AI
-
-Using AI where it improves the product rather than adding it for the sake of a feature list.
-
-**Exploring**
-
-`RAG` `LLMs` `Agents` `Computer Vision`
-
-</td>
-</tr>
-</table>
+<img width="100%" alt="What I Build" src="./assets/build-grid.svg" />
 
 ---
 
-## `04.` Selected Projects
+## Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Lakshman Rekha
-
-**Android Security Platform**
-
-A mobile-first security project focused on practical protection mechanisms and intelligent threat-aware workflows.
-
-`Kotlin` `Android` `Security`
-
-<a href="https://github.com/InsaneCoder789/Lakshman-Rekha">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 ClassSync
-
-**Academic Productivity Platform**
-
-An Android application designed around classroom workflows, planning, synchronization and student productivity.
-
-`Kotlin` `Jetpack Compose` `Room`
-
-<a href="https://github.com/InsaneCoder789/ClassSync">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 NavGate
-
-**Mobile Navigation System**
-
-An Android navigation project integrating location services, mapping and routing workflows.
-
-`Kotlin` `OSMDroid` `Location APIs`
-
-<a href="https://github.com/InsaneCoder789/NavGate">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚨 MGHSIS
-
-**Mass-Gathering Human Safety Intelligence System**
-
-A safety intelligence platform designed around crowd-risk fusion, wearable telemetry, digital twins and real-time response coordination.
-
-`Next.js` `Applied AI` `Analytics` `Digital Twin`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### Explore everything I've built
-
-<a href="https://github.com/InsaneCoder789?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<img width="100%" alt="Current engineering focus" src="./assets/focus-grid.svg" />
 
 ---
 
-## `05.` Current Focus
+## Engineering Principles
 
-```text
-Mobile Engineering        ███████████████████░   Android / Flutter
-Full-Stack Development    ███████████████████░   Next.js / TypeScript
-Backend Engineering       █████████████████░░░   APIs / Databases
-Applied AI                ███████████████░░░░░   RAG / LLM Systems
-System Design             █████████████░░░░░░░   Scaling / Reliability
-```
-
-Right now I'm particularly interested in connecting **product engineering with applied AI** — building systems where mobile/web interfaces, backend architecture and intelligent components operate as one coherent product.
+<img width="100%" alt="Engineering principles" src="./assets/principles-grid.svg" />
 
 ---
 
-## `06.` Engineering Principles
-
-```diff
-+ Build for users, not demos.
-+ Make architecture understandable.
-+ Prefer boring reliability over unnecessary complexity.
-+ Design failure paths before production finds them.
-+ Treat AI as a system component, not a magic layer.
-+ Ship, observe, improve.
-```
-
----
-
-## `07.` GitHub
+## GitHub
 
 <div align="center">
 
@@ -272,7 +118,7 @@ Right now I'm particularly interested in connecting **product engineering with a
 
 ---
 
-## `08.` Beyond the Commit
+## Beyond the Commit
 
 I like projects that force me to think across boundaries:
 
