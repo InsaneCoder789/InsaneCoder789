@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Rohan Chatterjee — Software Engineer & Product Builder" src="https://github.com/user-attachments/assets/0aa2be71-7ca0-4161-90ed-02a92c5905df" />
+<img width="100%" alt="Abstract systems engineering network visual" src="./assets/rohan-systems-banner.png" />
 
 <br/>
 
@@ -39,7 +39,7 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 <div align="center">
 
-<img width="100%" alt="Rohan Chatterjee developer terminal profile" src="./assets/rohan-neofetch.svg" />
+<img width="100%" alt="Rohan Chatterjee developer terminal profile" src="./assets/rohan-terminal-v2.svg" />
 
 </div>
 
