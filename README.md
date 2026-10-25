@@ -6,24 +6,44 @@
   <img width="100%" alt="Build. Ship. Learn. Repeat. Rohan Chatterjee, Software Engineer and Product Builder" src="./assets/cards/banner-light.svg" />
 </picture>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/InsaneCoder789">
-  <img alt="GitHub" height="32" src="https://img.shields.io/badge/GITHUB-INSANECODER789-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rochiee24">
-  <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LINKEDIN-ROCHIEE24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:chatterjeerohan0204@gmail.com">
-  <img alt="Email" height="32" src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/rochiee24">
-  <img alt="Instagram" height="32" src="https://img.shields.io/badge/INSTAGRAM-ROCHIEE24-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/intro-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/intro-light.svg" />
+  <img width="100%" alt="I build end-to-end digital products across mobile, web, backend systems and applied AI, with an emphasis on architecture, usability, reliability and real-world deployment." src="./assets/cards/intro-light.svg" />
+</picture>
 
-<br/><br/>
-
-I build end-to-end digital products across **mobile, web, backend systems and applied AI** — with an emphasis on architecture, usability, reliability and real-world deployment.
+<p align="center">
+  <a href="https://github.com/InsaneCoder789">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/link-github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/link-github-light.svg" />
+    <img width="24%" alt="GitHub: InsaneCoder789" src="./assets/cards/link-github-light.svg" />
+  </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/rochiee24">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/link-linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/link-linkedin-light.svg" />
+    <img width="24%" alt="LinkedIn: rochiee24" src="./assets/cards/link-linkedin-light.svg" />
+  </picture>
+  </a>
+  <a href="mailto:chatterjeerohan0204@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/link-email-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/link-email-light.svg" />
+    <img width="24%" alt="Email: contact me" src="./assets/cards/link-email-light.svg" />
+  </picture>
+  </a>
+  <a href="https://instagram.com/rochiee24">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/link-instagram-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/link-instagram-light.svg" />
+    <img width="24%" alt="Instagram: rochiee24" src="./assets/cards/link-instagram-light.svg" />
+  </picture>
+  </a>
+</p>
 
 </div>
 

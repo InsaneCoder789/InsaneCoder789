@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332 104" width="332" height="104" role="img" aria-label="Github: INSANECODER789">
+  <title>Github link</title>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#EDE4CE" fill-opacity="0.07"/></pattern>
+    <pattern id="stripes" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4.5" height="9" fill="#15120F"/></pattern>
+  </defs>
+  <style>
+    text{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;}
+    @keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+    @keyframes grow{from{transform:scaleX(.45)}to{transform:scaleX(1)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 2.4s ease-in-out infinite}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.2,.9,.2,1) both}
+    .bob{animation:bob 3s ease-in-out infinite}
+    @keyframes ping{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.8);opacity:0}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.6s ease-out infinite}
+  </style>
+      <g transform="rotate(-0.8 162.0 50.0)">
+    <rect x="12" y="14" width="312" height="84" rx="18" fill="#EDE4CE"/>
+    <rect x="6" y="8" width="312" height="84" rx="18" fill="#FFD84D" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="59" cy="53.0" r="30" fill="#15120F"/>
+  <circle cx="56" cy="50.0" r="30" fill="#FFFFFF" stroke="#15120F" stroke-width="3"/>
+  <g transform="translate(42 36.0) scale(1.1666666666666667)" fill="none" stroke="#15120F" color="#15120F" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56v-2c-3.2.7-3.87-1.54-3.87-1.54-.52-1.33-1.28-1.69-1.28-1.69-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.7 1.25 3.36.96.1-.75.4-1.25.73-1.54-2.55-.29-5.24-1.28-5.24-5.68 0-1.26.45-2.28 1.18-3.09-.12-.29-.51-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.62 1.59.23 2.76.11 3.05.74.81 1.18 1.83 1.18 3.09 0 4.41-2.69 5.38-5.25 5.67.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z" fill="#15120F" stroke="none"/></g>
+  <text x="104" y="41.0" font-family="'Courier New', Courier, monospace" font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#15120F" fill-opacity=".75">GITHUB</text>
+  <text x="104" y="69.0" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.9" font-weight="900" fill="#15120F" textLength="138" lengthAdjust="spacingAndGlyphs">INSANECODER789</text>
+  <circle cx="288" cy="50.0" r="14" fill="#15120F"/>
+  <path d="M283 55.0 L293 45.0 M285 45.0 H293 V53.0" fill="none" stroke="#FFF3D6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

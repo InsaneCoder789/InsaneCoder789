@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332 104" width="332" height="104" role="img" aria-label="Linkedin: ROCHIEE24">
+  <title>Linkedin link</title>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#15120F" fill-opacity="0.13"/></pattern>
+    <pattern id="stripes" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4.5" height="9" fill="#15120F"/></pattern>
+  </defs>
+  <style>
+    text{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;}
+    @keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+    @keyframes grow{from{transform:scaleX(.45)}to{transform:scaleX(1)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 2.4s ease-in-out infinite}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.2,.9,.2,1) both}
+    .bob{animation:bob 3s ease-in-out infinite}
+    @keyframes ping{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.8);opacity:0}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.6s ease-out infinite}
+  </style>
+      <g transform="rotate(0.7 162.0 50.0)">
+    <rect x="12" y="14" width="312" height="84" rx="18" fill="#15120F"/>
+    <rect x="6" y="8" width="312" height="84" rx="18" fill="#8EC5FF" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="59" cy="53.0" r="30" fill="#15120F"/>
+  <circle cx="56" cy="50.0" r="30" fill="#FFFFFF" stroke="#15120F" stroke-width="3"/>
+  <g transform="translate(42 36.0) scale(1.1666666666666667)" fill="none" stroke="#15120F" color="#15120F" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="6.4" cy="6.2" r="2" fill="#15120F" stroke="none"/><rect x="4.6" y="9.4" width="3.7" height="10.4" fill="#15120F" stroke="none"/><path d="M10.6 9.4h3.5v1.6c.5-1 1.8-1.9 3.4-1.9 3.1 0 3.7 2 3.7 4.7v5.9h-3.7v-5.2c0-1.2-.1-2.3-1.6-2.3s-1.9 1.1-1.9 2.3v5.2h-3.4z" fill="#15120F" stroke="none"/></g>
+  <text x="104" y="41.0" font-family="'Courier New', Courier, monospace" font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#15120F" fill-opacity=".75">LINKEDIN</text>
+  <text x="104" y="69.0" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21.0" font-weight="900" fill="#15120F" textLength="125" lengthAdjust="spacingAndGlyphs">ROCHIEE24</text>
+  <circle cx="288" cy="50.0" r="14" fill="#15120F"/>
+  <path d="M283 55.0 L293 45.0 M285 45.0 H293 V53.0" fill="none" stroke="#FFF3D6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
