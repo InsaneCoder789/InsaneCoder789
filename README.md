@@ -43,55 +43,11 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ## Tech Stack
 
-<div align="center">
-
-<sub><b>LANGUAGES</b></sub><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,dart,ts,js,python,java,c,html,css&theme=dark" />
-  <img height="48" alt="Kotlin, Dart, TypeScript, JavaScript, Python, Java, C, HTML, CSS" src="https://skillicons.dev/icons?i=kotlin,dart,ts,js,python,java,c,html,css&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/techstack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/techstack-light.svg" />
+  <img width="100%" alt="Tech stack: languages, mobile and frontend, backend and APIs, databases, AI and data, infrastructure and tooling" src="./assets/cards/techstack-light.svg" />
 </picture>
-
-<br/><br/>
-
-<sub><b>MOBILE &amp; FRONTEND</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind&theme=dark" />
-  <img height="48" alt="Android Studio, Flutter, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind&theme=light" />
-</picture>
-
-<br/><br/>
-
-<sub><b>BACKEND &amp; APIS</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase&theme=dark" />
-  <img height="48" alt="Node.js, Express, FastAPI, Firebase, Supabase" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase&theme=light" />
-</picture>
-
-<br/><br/>
-
-<sub><b>DATABASES</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark" />
-  <img height="48" alt="PostgreSQL, MongoDB, MySQL, SQLite, Redis" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=light" />
-</picture>
-
-<br/><br/>
-
-<sub><b>AI / DATA</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-  <img height="48" alt="TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" />
-</picture>
-
-<br/><br/>
-
-<sub><b>INFRASTRUCTURE &amp; TOOLING</b></sub><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,vscode,figma&theme=dark" />
-  <img height="48" alt="Git, GitHub, Docker, Google Cloud, Vercel, VS Code, Figma" src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,vscode,figma&theme=light" />
-</picture>
-
-</div>
 
 ---
 
@@ -127,35 +83,18 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ## GitHub
 
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-card-gules.vercel.app/api/card?theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-card-gules.vercel.app/api/card?theme=light" />
   <img width="100%" alt="GitHub stats for InsaneCoder789: rank, stars, commits, pull requests, issues, contribution streak and top languages" src="https://github-stats-card-gules.vercel.app/api/card?theme=light" />
 </picture>
 
-<br/><br/>
-
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=InsaneCoder789&label=PROFILE+VIEWS&color=238636&style=for-the-badge" />
-</div>
-
 ---
 
-<div align="center">
-
-### Code. &nbsp; Create. &nbsp; Collaborate.
-
-**Engineering ideas into real-world products.**
-
-<br/>
-
 <a href="mailto:chatterjeerohan0204@gmail.com">
-  <img alt="Let's build something" height="36" src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-238636?style=for-the-badge&logo=gmail&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/footer-light.svg" />
+    <img width="100%" alt="Code. Create. Collaborate. Engineering ideas into real-world products. Let's build something." src="./assets/cards/footer-light.svg" />
+  </picture>
 </a>
-
-<br/><br/>
-
-<sub>Designed around products, systems and the process of getting better at building both.</sub>
-
-</div>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Code. Create. Collaborate. Engineering ideas into real-world products. Let's build something.">
+  <title>Code. Create. Collaborate.</title>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#EDE4CE" fill-opacity="0.07"/></pattern>
+    <pattern id="stripes" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4.5" height="9" fill="#15120F"/></pattern>
+  </defs>
+  <style>
+    text{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;}
+    @keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+    @keyframes grow{from{transform:scaleX(.45)}to{transform:scaleX(1)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 2.4s ease-in-out infinite}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.2,.9,.2,1) both}
+    .bob{animation:bob 3s ease-in-out infinite}
+    @keyframes ping{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.8);opacity:0}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.6s ease-out infinite}
+  </style>
+  <rect x="2" y="2" width="1196" height="336" rx="22" fill="#0d1117" stroke="#EDE4CE" stroke-width="4"/>
+  <rect x="4" y="4" width="1192" height="332" rx="20" fill="url(#dots)"/>
+  <path d="M1170 14 Q1170 24 1180 24 Q1170 24 1170 34 Q1170 24 1160 24 Q1170 24 1170 14Z" fill="#FF9BBF" stroke="#EDE4CE" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M24 309 Q24 318 33 318 Q24 318 24 327 Q24 318 15 318 Q24 318 24 309Z" fill="#7FE3B4" stroke="#EDE4CE" stroke-width="2.2" stroke-linejoin="round"/>
+  <g transform="rotate(-0.25 600.0 167.0)">
+    <rect x="41" y="43" width="1132" height="262" rx="16" fill="#EDE4CE"/>
+    <rect x="34" y="36" width="1132" height="262" rx="16" fill="#FFD84D" stroke="#15120F" stroke-width="3.5"/>
+  <text x="74" y="128" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="900" fill="#15120F" textLength="178" lengthAdjust="spacingAndGlyphs">Code.</text>
+  <text x="275.12" y="128" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="900" fill="#15120F" textLength="249" lengthAdjust="spacingAndGlyphs">Create.</text>
+  <rect x="535.24" y="84.8" width="452" height="55.08" rx="10" fill="#15120F" transform="rotate(-1 761.24 128)"/>
+  <text x="547.24" y="128" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="900" fill="#FFD84D" textLength="428" lengthAdjust="spacingAndGlyphs">Collaborate.</text>
+  <path d="M76 152 q6.0 -5 12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0" fill="none" stroke="#15120F" stroke-width="3" stroke-linecap="round"/>
+  <text x="76" y="206" font-size="24.0" font-weight="800" fill="#15120F" textLength="619" lengthAdjust="spacingAndGlyphs">Engineering ideas into real-world products.</text>
+  <rect x="745" y="168" width="387" height="66" rx="33.0" fill="#15120F"/>
+  <rect x="739" y="162" width="387" height="66" rx="33.0" fill="#FFFFFF" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="772.0" cy="195.0" r="21" fill="#7FE3B4" stroke="#15120F" stroke-width="3"/>
+  <path d="M763.0 189.0h18v12h-18z M763.0 189.0l9 7 9-7" fill="none" stroke="#15120F" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="811" y="202.0" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="900" fill="#15120F" textLength="277" lengthAdjust="spacingAndGlyphs">LET'S BUILD SOMETHING</text>
+  <path d="M76 242H1124" stroke="#15120F" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 9"/>
+  <text x="76" y="274" font-size="15.5" font-weight="700" fill="#15120F" fill-opacity=".8" textLength="790" lengthAdjust="spacingAndGlyphs">Designed around products, systems and the process of getting better at building both.</text>
+  </g>
+</svg>
