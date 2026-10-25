@@ -1,26 +1,27 @@
 <div align="center">
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/7432c946-1d20-40f3-968f-9a674dbc1ab4" />
-
-<br/>
-
-
-<a href="https://github.com/InsaneCoder789">
-  <img src="https://img.shields.io/badge/GITHUB-INSANECODER789-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rochiee24">
-  <img src="https://img.shields.io/badge/LINKEDIN-ROCHIEE24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:chatterjeerohan0204@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/rochiee24">
-  <img src="https://img.shields.io/badge/INSTAGRAM-ROCHIEE24-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/banner-light.svg" />
+  <img width="100%" alt="Build. Ship. Learn. Repeat. Rohan Chatterjee, Software Engineer and Product Builder" src="./assets/cards/banner-light.svg" />
+</picture>
 
 <br/><br/>
 
-> **Build. Ship. Learn. Repeat.**
+<a href="https://github.com/InsaneCoder789">
+  <img alt="GitHub" height="32" src="https://img.shields.io/badge/GITHUB-INSANECODER789-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rochiee24">
+  <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LINKEDIN-ROCHIEE24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:chatterjeerohan0204@gmail.com">
+  <img alt="Email" height="32" src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/rochiee24">
+  <img alt="Instagram" height="32" src="https://img.shields.io/badge/INSTAGRAM-ROCHIEE24-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
 
 I build end-to-end digital products across **mobile, web, backend systems and applied AI** — with an emphasis on architecture, usability, reliability and real-world deployment.
 
@@ -31,9 +32,11 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 ## About
 
 <div align="center">
-
-<img width="100%" alt="Rohan Chatterjee developer terminal profile" src="./assets/rohan-terminal-v2.svg" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/profile-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/profile-light.svg" />
+    <img width="100%" alt="Rohan Chatterjee: Software Engineer and Product Builder focused on mobile, full-stack and applied AI" src="./assets/cards/profile-light.svg" />
+  </picture>
 </div>
 
 ---
@@ -42,34 +45,51 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 <div align="center">
 
-### Languages
+<sub><b>LANGUAGES</b></sub><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,dart,ts,js,python,java,c,html,css&theme=dark" />
+  <img height="48" alt="Kotlin, Dart, TypeScript, JavaScript, Python, Java, C, HTML, CSS" src="https://skillicons.dev/icons?i=kotlin,dart,ts,js,python,java,c,html,css&theme=light" />
+</picture>
 
-<img src="https://skillicons.dev/icons?i=kotlin,dart,ts,js,python,java,c,html,css&theme=dark" />
+<br/><br/>
 
+<sub><b>MOBILE &amp; FRONTEND</b></sub><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind&theme=dark" />
+  <img height="48" alt="Android Studio, Flutter, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind&theme=light" />
+</picture>
 
-### Mobile & Frontend
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind&theme=dark" />
+<sub><b>BACKEND &amp; APIS</b></sub><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase&theme=dark" />
+  <img height="48" alt="Node.js, Express, FastAPI, Firebase, Supabase" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase&theme=light" />
+</picture>
 
+<br/><br/>
 
-### Backend & APIs
+<sub><b>DATABASES</b></sub><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark" />
+  <img height="48" alt="PostgreSQL, MongoDB, MySQL, SQLite, Redis" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=light" />
+</picture>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase&theme=dark" />
+<br/><br/>
 
+<sub><b>AI / DATA</b></sub><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+  <img height="48" alt="TensorFlow, OpenCV" src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" />
+</picture>
 
-### Databases
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark" />
-
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-
-
-### Infrastructure & Tooling
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,vscode,figma&theme=dark" />
+<sub><b>INFRASTRUCTURE &amp; TOOLING</b></sub><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,vscode,figma&theme=dark" />
+  <img height="48" alt="Git, GitHub, Docker, Google Cloud, Vercel, VS Code, Figma" src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,vscode,figma&theme=light" />
+</picture>
 
 </div>
 
@@ -77,19 +97,31 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 ## What I Build
 
-<img width="100%" alt="What I Build" src="./assets/build-system-v2.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/build-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/build-light.svg" />
+  <img width="100%" alt="What I build: mobile products, full-stack systems, backend foundations, applied intelligence" src="./assets/cards/build-light.svg" />
+</picture>
 
 ---
 
 ## Current Focus
 
-<img width="100%" alt="Current engineering focus" src="./assets/focus-grid.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/focus-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/focus-light.svg" />
+  <img width="100%" alt="Current engineering focus: mobile, full-stack, backend and applied AI" src="./assets/cards/focus-light.svg" />
+</picture>
 
 ---
 
 ## Engineering Principles
 
-<img width="100%" alt="Engineering principles" src="./assets/principles-system-v2.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/principles-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/principles-light.svg" />
+  <img width="100%" alt="Engineering principles: start with people, keep it legible, earn reliability" src="./assets/cards/principles-light.svg" />
+</picture>
 
 ---
 
@@ -97,17 +129,26 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=InsaneCoder789&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=InsaneCoder789&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=3FB950&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=InsaneCoder789&hide_border=false&border_color=EDE4CE&border_radius=16&bg_color=0D1117&title_color=FFD84D&text_color=F4EEDD&icon_color=7FE3B4&include_all_commits=false&count_private=true" />
+  <img height="195" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=InsaneCoder789&hide_border=false&border_color=15120F&border_radius=16&bg_color=FFF3D6&title_color=15120F&text_color=15120F&icon_color=E8590C&include_all_commits=false&count_private=true" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=InsaneCoder789&border_radius=16&border=EDE4CE&background=0D1117&stroke=EDE4CE&ring=FFD84D&fire=FF9BBF&currStreakNum=F4EEDD&sideNums=F4EEDD&currStreakLabel=FFD84D&sideLabels=B8B09C&dates=B8B09C" />
+  <img height="195" alt="GitHub streak" src="https://streak-stats.demolab.com?user=InsaneCoder789&border_radius=16&border=15120F&background=FFF3D6&stroke=15120F&ring=E8590C&fire=E8590C&currStreakNum=15120F&sideNums=15120F&currStreakLabel=15120F&sideLabels=4A4435&dates=4A4435" />
+</picture>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=InsaneCoder789&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=InsaneCoder789&layout=compact&hide_border=false&border_color=EDE4CE&border_radius=16&bg_color=0D1117&title_color=FFD84D&text_color=F4EEDD" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=InsaneCoder789&layout=compact&hide_border=false&border_color=15120F&border_radius=16&bg_color=FFF3D6&title_color=15120F&text_color=15120F" />
+</picture>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=InsaneCoder789&label=PROFILE+VIEWS&color=238636&style=for-the-badge" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=InsaneCoder789&label=PROFILE+VIEWS&color=238636&style=for-the-badge" />
 
 </div>
 
@@ -115,16 +156,14 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 
 <div align="center">
 
-### `</>` Code. &nbsp; `✦` Create. &nbsp; `↗` Collaborate.
-
-<br/>
+### Code. &nbsp; Create. &nbsp; Collaborate.
 
 **Engineering ideas into real-world products.**
 
 <br/>
 
 <a href="mailto:chatterjeerohan0204@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-238636?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Let's build something" height="36" src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-238636?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>

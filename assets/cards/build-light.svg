@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="What I build: mobile products, full-stack systems, backend foundations and applied intelligence">
+  <title>What I build</title>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#15120F" fill-opacity="0.13"/></pattern>
+    <pattern id="stripes" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4.5" height="9" fill="#15120F"/></pattern>
+  </defs>
+  <style>
+    text{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;}
+    @keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+    @keyframes grow{from{transform:scaleX(.45)}to{transform:scaleX(1)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 2.4s ease-in-out infinite}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.2,.9,.2,1) both}
+    .bob{animation:bob 3s ease-in-out infinite}
+    @keyframes ping{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.8);opacity:0}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.6s ease-out infinite}
+  </style>
+  <rect x="2" y="2" width="1196" height="396" rx="22" fill="#FFF3D6" stroke="#15120F" stroke-width="4"/>
+  <rect x="4" y="4" width="1192" height="392" rx="20" fill="url(#dots)"/>
+  <path d="M1166 16 Q1166 26 1176 26 Q1166 26 1166 36 Q1166 26 1156 26 Q1166 26 1166 16Z" fill="#FF9BBF" stroke="#15120F" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M24 371 Q24 380 33 380 Q24 380 24 389 Q24 380 15 380 Q24 380 24 371Z" fill="#FFD84D" stroke="#15120F" stroke-width="2.2" stroke-linejoin="round"/>
+  <g transform="rotate(-0.7 310.0 110.0)">
+    <rect x="41" y="41" width="552" height="152" rx="16" fill="#15120F"/>
+    <rect x="34" y="34" width="552" height="152" rx="16" fill="#7FE3B4" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="99" cy="113" r="36" fill="#15120F"/>
+  <circle cx="96" cy="110" r="36" fill="#FFFFFF" stroke="#15120F" stroke-width="3"/>
+  <g transform="translate(78.0 92.0) scale(1.5)" fill="none" stroke="#15120F" color="#15120F" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="2.5" width="10" height="19" rx="2.6"/><path d="M10.6 18.4h2.8"/></g>
+  <text x="154" y="86" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25.0" font-weight="900" fill="#15120F" textLength="248" lengthAdjust="spacingAndGlyphs">Mobile products</text>
+  <path d="M156 100 q5.0 -4 10 0 t10 0 t10 0 t10 0 t10 0 t10 0" fill="none" stroke="#15120F" stroke-width="3" stroke-linecap="round"/>
+  <text x="154" y="126" font-size="15.0" font-weight="700" fill="#15120F" textLength="342" lengthAdjust="spacingAndGlyphs">Native experiences people can rely on.</text>
+  <rect x="154" y="140" width="73" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="152" y="138" width="73" height="30" rx="15.0" fill="#FFFFFF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="188.5" y="157.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="47" lengthAdjust="spacingAndGlyphs">Kotlin</text>
+  <rect x="239" y="140" width="81" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="237" y="138" width="81" height="30" rx="15.0" fill="#8EC5FF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="277.5" y="157.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="55" lengthAdjust="spacingAndGlyphs">Flutter</text>
+  <rect x="332" y="140" width="81" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="330" y="138" width="81" height="30" rx="15.0" fill="#FFD84D" stroke="#15120F" stroke-width="2.5"/>
+  <text x="370.5" y="157.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="55" lengthAdjust="spacingAndGlyphs">Compose</text>
+  </g>
+  <g transform="rotate(0.6 890.0 110.0)">
+    <rect x="621" y="41" width="552" height="152" rx="16" fill="#15120F"/>
+    <rect x="614" y="34" width="552" height="152" rx="16" fill="#8EC5FF" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="679" cy="113" r="36" fill="#15120F"/>
+  <circle cx="676" cy="110" r="36" fill="#FFFFFF" stroke="#15120F" stroke-width="3"/>
+  <g transform="translate(658.0 92.0) scale(1.5)" fill="none" stroke="#15120F" color="#15120F" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2.8"/><path d="M3 9.2h18"/><circle cx="6.3" cy="6.6" r=".7" fill="currentColor"/><circle cx="8.9" cy="6.6" r=".7" fill="currentColor"/></g>
+  <text x="734" y="86" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25.0" font-weight="900" fill="#15120F" textLength="297" lengthAdjust="spacingAndGlyphs">Full-stack systems</text>
+  <path d="M736 100 q5.0 -4 10 0 t10 0 t10 0 t10 0 t10 0 t10 0" fill="none" stroke="#15120F" stroke-width="3" stroke-linecap="round"/>
+  <text x="734" y="126" font-size="15.0" font-weight="700" fill="#15120F" textLength="378" lengthAdjust="spacingAndGlyphs">The interface, the API and the deployment.</text>
+  <rect x="734" y="140" width="81" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="732" y="138" width="81" height="30" rx="15.0" fill="#FFFFFF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="772.5" y="157.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="55" lengthAdjust="spacingAndGlyphs">Next.js</text>
+  <rect x="827" y="140" width="65" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="825" y="138" width="65" height="30" rx="15.0" fill="#FFD84D" stroke="#15120F" stroke-width="2.5"/>
+  <text x="857.5" y="157.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="39" lengthAdjust="spacingAndGlyphs">React</text>
+  <rect x="904" y="140" width="104" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="902" y="138" width="104" height="30" rx="15.0" fill="#7FE3B4" stroke="#15120F" stroke-width="2.5"/>
+  <text x="954.0" y="157.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="78" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+  </g>
+  <g transform="rotate(0.6 310.0 292.0)">
+    <rect x="41" y="223" width="552" height="152" rx="16" fill="#15120F"/>
+    <rect x="34" y="216" width="552" height="152" rx="16" fill="#FF9BBF" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="99" cy="295" r="36" fill="#15120F"/>
+  <circle cx="96" cy="292" r="36" fill="#FFFFFF" stroke="#15120F" stroke-width="3"/>
+  <g transform="translate(78.0 274.0) scale(1.5)" fill="none" stroke="#15120F" color="#15120F" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="6" rx="7" ry="3"/><path d="M5 6v12c0 1.66 3.13 3 7 3s7-1.34 7-3V6"/><path d="M5 12c0 1.66 3.13 3 7 3s7-1.34 7-3"/></g>
+  <text x="154" y="268" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25.0" font-weight="900" fill="#15120F" textLength="314" lengthAdjust="spacingAndGlyphs">Backend foundations</text>
+  <path d="M156 282 q5.0 -4 10 0 t10 0 t10 0 t10 0 t10 0 t10 0" fill="none" stroke="#15120F" stroke-width="3" stroke-linecap="round"/>
+  <text x="154" y="308" font-size="14.8" font-weight="700" fill="#15120F" textLength="400" lengthAdjust="spacingAndGlyphs">The services and data underneath the product.</text>
+  <rect x="154" y="322" width="81" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="152" y="320" width="81" height="30" rx="15.0" fill="#FFFFFF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="192.5" y="339.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="55" lengthAdjust="spacingAndGlyphs">FastAPI</text>
+  <rect x="247" y="322" width="104" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="245" y="320" width="104" height="30" rx="15.0" fill="#8EC5FF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="297.0" y="339.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="78" lengthAdjust="spacingAndGlyphs">PostgreSQL</text>
+  <rect x="363" y="322" width="65" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="361" y="320" width="65" height="30" rx="15.0" fill="#FFD84D" stroke="#15120F" stroke-width="2.5"/>
+  <text x="393.5" y="339.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="39" lengthAdjust="spacingAndGlyphs">Redis</text>
+  </g>
+  <g transform="rotate(-0.7 890.0 292.0)">
+    <rect x="621" y="223" width="552" height="152" rx="16" fill="#15120F"/>
+    <rect x="614" y="216" width="552" height="152" rx="16" fill="#FFD84D" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="679" cy="295" r="36" fill="#15120F"/>
+  <circle cx="676" cy="292" r="36" fill="#FFFFFF" stroke="#15120F" stroke-width="3"/>
+  <g transform="translate(658.0 274.0) scale(1.5)" fill="none" stroke="#15120F" color="#15120F" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 3.5l1.7 4.8 4.8 1.7-4.8 1.7-1.7 4.8-1.7-4.8L4 10l4.8-1.7z"/><path d="M18 15l.9 2.1 2.1.9-2.1.9-.9 2.1-.9-2.1-2.1-.9 2.1-.9z"/></g>
+  <text x="734" y="268" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25.0" font-weight="900" fill="#15120F" textLength="330" lengthAdjust="spacingAndGlyphs">Applied intelligence</text>
+  <path d="M736 282 q5.0 -4 10 0 t10 0 t10 0 t10 0 t10 0 t10 0" fill="none" stroke="#15120F" stroke-width="3" stroke-linecap="round"/>
+  <text x="734" y="308" font-size="14.8" font-weight="700" fill="#15120F" textLength="400" lengthAdjust="spacingAndGlyphs">Useful intelligence, placed where it matters.</text>
+  <rect x="734" y="322" width="49" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="732" y="320" width="49" height="30" rx="15.0" fill="#FFFFFF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="756.5" y="339.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="23" lengthAdjust="spacingAndGlyphs">RAG</text>
+  <rect x="795" y="322" width="73" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="793" y="320" width="73" height="30" rx="15.0" fill="#FF9BBF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="829.5" y="339.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="47" lengthAdjust="spacingAndGlyphs">Agents</text>
+  <rect x="880" y="322" width="143" height="30" rx="15.0" fill="#15120F"/>
+  <rect x="878" y="320" width="143" height="30" rx="15.0" fill="#7FE3B4" stroke="#15120F" stroke-width="2.5"/>
+  <text x="949.5" y="339.55" font-size="13" font-weight="800" fill="#15120F" text-anchor="middle" textLength="117" lengthAdjust="spacingAndGlyphs">Computer Vision</text>
+  </g>
+</svg>

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-label="Rohan Chatterjee, Software Engineer and Product Builder, focused on mobile, full-stack and applied AI">
+  <title>Rohan Chatterjee developer profile</title>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#15120F" fill-opacity="0.13"/></pattern>
+    <pattern id="stripes" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4.5" height="9" fill="#15120F"/></pattern>
+  </defs>
+  <style>
+    text{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;}
+    @keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+    @keyframes grow{from{transform:scaleX(.45)}to{transform:scaleX(1)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    .wiggle{transform-box:fill-box;transform-origin:center;animation:wiggle 2.4s ease-in-out infinite}
+    .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.2,.9,.2,1) both}
+    .bob{animation:bob 3s ease-in-out infinite}
+    @keyframes ping{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.8);opacity:0}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.6s ease-out infinite}
+  </style>
+  <rect x="2" y="2" width="1196" height="496" rx="22" fill="#FFF3D6" stroke="#15120F" stroke-width="4"/>
+  <rect x="4" y="4" width="1192" height="492" rx="20" fill="url(#dots)"/>
+  <path d="M1160 11 Q1160 22 1171 22 Q1160 22 1160 33 Q1160 22 1149 22 Q1160 22 1160 11Z" fill="#FFD84D" stroke="#15120F" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M30 469 Q30 478 39 478 Q30 478 30 487 Q30 478 21 478 Q30 478 30 469Z" fill="#FF9BBF" stroke="#15120F" stroke-width="2.2" stroke-linejoin="round"/>
+  <g transform="rotate(-0.5 382.0 202.0)">
+    <rect x="39" y="39" width="700" height="340" rx="16" fill="#15120F"/>
+    <rect x="32" y="32" width="700" height="340" rx="16" fill="#FFFFFF" stroke="#15120F" stroke-width="3.5"/>
+  <circle cx="115" cy="107" r="46" fill="#15120F"/>
+  <clipPath id="av"><circle cx="111" cy="103" r="42"/></clipPath>
+  <circle cx="111" cy="103" r="46" fill="#FFD84D" stroke="#15120F" stroke-width="3.5"/>
+  <image x="69" y="61" width="84" height="84" clip-path="url(#av)" preserveAspectRatio="xMidYMid slice" href="data:image/jpeg;base64,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"/>
+  <circle cx="111" cy="103" r="42" fill="none" stroke="#15120F" stroke-width="3"/>
+  <text x="178" y="98" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="900" fill="#15120F" textLength="422" lengthAdjust="spacingAndGlyphs">Rohan Chatterjee</text>
+  <rect x="178" y="114" width="152" height="28" rx="14" fill="#15120F"/>
+  <text x="254.0" y="133" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" fill="#FFD84D" text-anchor="middle">@InsaneCoder789</text>
+  <g class="wiggle"><polygon points="668.0,50.0 676.5,63.0 689.7,55.0 691.7,70.3 707.1,68.8 702.2,83.5 716.7,88.9 706.0,100.0 716.7,111.1 702.2,116.5 707.1,131.2 691.7,129.7 689.7,145.0 676.5,137.0 668.0,150.0 659.5,137.0 646.3,145.0 644.3,129.7 628.9,131.2 633.8,116.5 619.3,111.1 630.0,100.0 619.3,88.9 633.8,83.5 628.9,68.8 644.3,70.3 646.3,55.0 659.5,63.0" fill="#15120F"/><polygon points="664.0,46.0 672.5,59.0 685.7,51.0 687.7,66.3 703.1,64.8 698.2,79.5 712.7,84.9 702.0,96.0 712.7,107.1 698.2,112.5 703.1,127.2 687.7,125.7 685.7,141.0 672.5,133.0 664.0,146.0 655.5,133.0 642.3,141.0 640.3,125.7 624.9,127.2 629.8,112.5 615.3,107.1 626.0,96.0 615.3,84.9 629.8,79.5 624.9,64.8 640.3,66.3 642.3,51.0 655.5,59.0" fill="#7FE3B4" stroke="#15120F" stroke-width="3" stroke-linejoin="round"/></g>
+  <text x="664" y="101" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="900" fill="#15120F" text-anchor="middle">ONLINE</text>
+  <path d="M64 170H700" stroke="#15120F" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 9"/>
+  <rect x="64" y="192" width="98" height="24" rx="6" fill="#15120F"/>
+  <text x="113.0" y="208.5" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#FFF3D6" text-anchor="middle">ROLE</text>
+  <text x="180" y="211" font-size="20" font-weight="800" fill="#15120F" textLength="420" lengthAdjust="spacingAndGlyphs">Software Engineer + Product Builder</text>
+  <rect x="64" y="239" width="98" height="24" rx="6" fill="#15120F"/>
+  <text x="113.0" y="255.5" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#FFF3D6" text-anchor="middle">FOCUS</text>
+  <rect x="178" y="237" width="76" height="32" rx="16.0" fill="#15120F"/>
+  <rect x="176" y="235" width="76" height="32" rx="16.0" fill="#8EC5FF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="214.0" y="255.9" font-size="14" font-weight="800" fill="#15120F" text-anchor="middle" textLength="50" lengthAdjust="spacingAndGlyphs">Mobile</text>
+  <rect x="266" y="237" width="110" height="32" rx="16.0" fill="#15120F"/>
+  <rect x="264" y="235" width="110" height="32" rx="16.0" fill="#7FE3B4" stroke="#15120F" stroke-width="2.5"/>
+  <text x="319.0" y="255.9" font-size="14" font-weight="800" fill="#15120F" text-anchor="middle" textLength="84" lengthAdjust="spacingAndGlyphs">Full-stack</text>
+  <rect x="388" y="237" width="110" height="32" rx="16.0" fill="#15120F"/>
+  <rect x="386" y="235" width="110" height="32" rx="16.0" fill="#FF9BBF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="441.0" y="255.9" font-size="14" font-weight="800" fill="#15120F" text-anchor="middle" textLength="84" lengthAdjust="spacingAndGlyphs">Applied AI</text>
+  <rect x="64" y="286" width="98" height="24" rx="6" fill="#15120F"/>
+  <text x="113.0" y="302.5" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#FFF3D6" text-anchor="middle">MINDSET</text>
+  <rect x="172" y="283" width="388" height="30" rx="4" fill="#FFD84D" transform="rotate(-0.8 366.0 298)"/>
+  <text x="180" y="305" font-size="20" font-weight="800" fill="#15120F" textLength="372" lengthAdjust="spacingAndGlyphs">Useful products. Clear systems.</text>
+  <rect x="64" y="333" width="98" height="24" rx="6" fill="#15120F"/>
+  <text x="113.0" y="349.5" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#FFF3D6" text-anchor="middle">NOW</text>
+  <rect x="178" y="331" width="85" height="32" rx="16.0" fill="#15120F"/>
+  <rect x="176" y="329" width="85" height="32" rx="16.0" fill="#8EC5FF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="218.5" y="349.9" font-size="14" font-weight="800" fill="#15120F" text-anchor="middle" textLength="59" lengthAdjust="spacingAndGlyphs">Flutter</text>
+  <rect x="275" y="331" width="85" height="32" rx="16.0" fill="#15120F"/>
+  <rect x="273" y="329" width="85" height="32" rx="16.0" fill="#C9ADFF" stroke="#15120F" stroke-width="2.5"/>
+  <text x="315.5" y="349.9" font-size="14" font-weight="800" fill="#15120F" text-anchor="middle" textLength="59" lengthAdjust="spacingAndGlyphs">Next.js</text>
+  <rect x="372" y="331" width="211" height="32" rx="16.0" fill="#15120F"/>
+  <rect x="370" y="329" width="211" height="32" rx="16.0" fill="#FFAA66" stroke="#15120F" stroke-width="2.5"/>
+  <text x="475.5" y="349.9" font-size="14" font-weight="800" fill="#15120F" text-anchor="middle" textLength="185" lengthAdjust="spacingAndGlyphs">AI-integrated products</text>
+  </g>
+  <g transform="rotate(0.6 970.0 210.0)">
+    <rect x="779" y="47" width="396" height="340" rx="16" fill="#15120F"/>
+    <rect x="772" y="40" width="396" height="340" rx="16" fill="#C9ADFF" stroke="#15120F" stroke-width="3.5"/>
+  <rect x="804" y="62" width="150" height="24" rx="6" fill="#15120F"/>
+  <text x="879.0" y="78.5" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#FFF3D6" text-anchor="middle">CORE TOOLBOX</text>
+  <g transform="rotate(-1.4 884.0 122)">
+    <rect x="807" y="103" width="160" height="44" rx="10" fill="#15120F"/>
+    <rect x="804" y="100" width="160" height="44" rx="10" fill="#7FE3B4" stroke="#15120F" stroke-width="2.8"/>
+    <circle cx="826" cy="122" r="6" fill="#15120F"/>
+    <text x="842" y="128" font-size="16" font-weight="800" fill="#15120F">Android</text>
+  </g>
+  <g transform="rotate(1.2 1056.0 122)">
+    <rect x="979" y="103" width="160" height="44" rx="10" fill="#15120F"/>
+    <rect x="976" y="100" width="160" height="44" rx="10" fill="#8EC5FF" stroke="#15120F" stroke-width="2.8"/>
+    <circle cx="998" cy="122" r="6" fill="#15120F"/>
+    <text x="1014" y="128" font-size="16" font-weight="800" fill="#15120F">Flutter</text>
+  </g>
+  <g transform="rotate(1.4 884.0 176)">
+    <rect x="807" y="157" width="160" height="44" rx="10" fill="#15120F"/>
+    <rect x="804" y="154" width="160" height="44" rx="10" fill="#FFFFFF" stroke="#15120F" stroke-width="2.8"/>
+    <circle cx="826" cy="176" r="6" fill="#15120F"/>
+    <text x="842" y="182" font-size="16" font-weight="800" fill="#15120F">Next.js</text>
+  </g>
+  <g transform="rotate(-1.2 1056.0 176)">
+    <rect x="979" y="157" width="160" height="44" rx="10" fill="#15120F"/>
+    <rect x="976" y="154" width="160" height="44" rx="10" fill="#FFD84D" stroke="#15120F" stroke-width="2.8"/>
+    <circle cx="998" cy="176" r="6" fill="#15120F"/>
+    <text x="1014" y="182" font-size="16" font-weight="800" fill="#15120F">APIs</text>
+  </g>
+  <g transform="rotate(-1.4 884.0 230)">
+    <rect x="807" y="211" width="160" height="44" rx="10" fill="#15120F"/>
+    <rect x="804" y="208" width="160" height="44" rx="10" fill="#FF9BBF" stroke="#15120F" stroke-width="2.8"/>
+    <circle cx="826" cy="230" r="6" fill="#15120F"/>
+    <text x="842" y="236" font-size="16" font-weight="800" fill="#15120F">Databases</text>
+  </g>
+  <g transform="rotate(1.2 1056.0 230)">
+    <rect x="979" y="211" width="160" height="44" rx="10" fill="#15120F"/>
+    <rect x="976" y="208" width="160" height="44" rx="10" fill="#FFAA66" stroke="#15120F" stroke-width="2.8"/>
+    <circle cx="998" cy="230" r="6" fill="#15120F"/>
+    <text x="1014" y="236" font-size="16" font-weight="800" fill="#15120F">Applied AI</text>
+  </g>
+  <rect x="804" y="266" width="150" height="24" rx="6" fill="#15120F"/>
+  <text x="879.0" y="282.5" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#FFF3D6" text-anchor="middle">BUILD SIGNAL</text>
+  <rect x="972" y="265" width="86" height="26" rx="13" fill="#15120F"/>
+  <circle cx="990" cy="278" r="5" fill="#7FE3B4"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="1002" y="283" font-family="'Courier New', Courier, monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#FFF3D6">ACTIVE</text>
+  <rect x="804" y="302" width="332" height="24" rx="12" fill="#FFFFFF" stroke="#15120F" stroke-width="3"/>
+  <g class="grow"><rect x="807" y="305" width="252" height="18" rx="9" fill="#FFD84D"/><rect x="807" y="305" width="252" height="18" rx="9" fill="url(#stripes)" fill-opacity=".28"/><rect x="807" y="305" width="252" height="18" rx="9" fill="none" stroke="#15120F" stroke-width="2"/></g>
+  <text x="804" y="355" font-size="15" font-weight="700" fill="#15120F" textLength="342" lengthAdjust="spacingAndGlyphs">Learning in public, building in depth.</text>
+  </g>
+  <g transform="rotate(-0.3 600 444)">
+    <rect x="39" y="418" width="1136" height="60" rx="14" fill="#FFD84D" stroke="#15120F" stroke-width="3.5"/>
+    <rect x="32" y="411" width="1136" height="60" rx="14" fill="#15120F" stroke="#15120F" stroke-width="3.5"/>
+    <text x="68" y="449" font-size="22" font-weight="800" fill="#FFF3D6" textLength="198" lengthAdjust="spacingAndGlyphs">Code with care.</text>
+    <polygon points="292.0,430.0 295.5,437.5 303.0,441.0 295.5,444.5 292.0,452.0 288.5,444.5 281.0,441.0 288.5,437.5" fill="#15120F"/><polygon points="292.0,430.0 295.5,437.5 303.0,441.0 295.5,444.5 292.0,452.0 288.5,444.5 281.0,441.0 288.5,437.5" fill="#FFD84D" stroke="#15120F" stroke-width="2" stroke-linejoin="round"/>
+    <text x="330" y="449" font-size="22" font-weight="800" fill="#FFF3D6" textLength="251" lengthAdjust="spacingAndGlyphs">Design for reality.</text>
+    <polygon points="607.0,430.0 610.5,437.5 618.0,441.0 610.5,444.5 607.0,452.0 603.5,444.5 596.0,441.0 603.5,437.5" fill="#15120F"/><polygon points="607.0,430.0 610.5,437.5 618.0,441.0 610.5,444.5 607.0,452.0 603.5,444.5 596.0,441.0 603.5,437.5" fill="#FFD84D" stroke="#15120F" stroke-width="2" stroke-linejoin="round"/>
+    <text x="645" y="449" font-size="22" font-weight="800" fill="#FFF3D6" textLength="185" lengthAdjust="spacingAndGlyphs">Keep learning.</text>
+  </g>
+</svg>
