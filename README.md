@@ -130,26 +130,14 @@ I build end-to-end digital products across **mobile, web, backend systems and ap
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=InsaneCoder789&hide_border=false&border_color=EDE4CE&border_radius=16&bg_color=0D1117&title_color=FFD84D&text_color=F4EEDD&icon_color=7FE3B4&include_all_commits=false&count_private=true" />
-  <img height="195" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=InsaneCoder789&hide_border=false&border_color=15120F&border_radius=16&bg_color=FFF3D6&title_color=15120F&text_color=15120F&icon_color=E8590C&include_all_commits=false&count_private=true" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=InsaneCoder789&border_radius=16&border=EDE4CE&background=0D1117&stroke=EDE4CE&ring=FFD84D&fire=FF9BBF&currStreakNum=F4EEDD&sideNums=F4EEDD&currStreakLabel=FFD84D&sideLabels=B8B09C&dates=B8B09C" />
-  <img height="195" alt="GitHub streak" src="https://streak-stats.demolab.com?user=InsaneCoder789&border_radius=16&border=15120F&background=FFF3D6&stroke=15120F&ring=E8590C&fire=E8590C&currStreakNum=15120F&sideNums=15120F&currStreakLabel=15120F&sideLabels=4A4435&dates=4A4435" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=InsaneCoder789&layout=compact&hide_border=false&border_color=EDE4CE&border_radius=16&bg_color=0D1117&title_color=FFD84D&text_color=F4EEDD" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=InsaneCoder789&layout=compact&hide_border=false&border_color=15120F&border_radius=16&bg_color=FFF3D6&title_color=15120F&text_color=15120F" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-card-gules.vercel.app/api/card?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-card-gules.vercel.app/api/card?theme=light" />
+  <img width="100%" alt="GitHub stats for InsaneCoder789: rank, stars, commits, pull requests, issues, contribution streak and top languages" src="https://github-stats-card-gules.vercel.app/api/card?theme=light" />
 </picture>
 
 <br/><br/>
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=InsaneCoder789&label=PROFILE+VIEWS&color=238636&style=for-the-badge" />
-
 </div>
 
 ---
